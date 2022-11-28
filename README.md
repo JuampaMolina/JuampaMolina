@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JuampaMolina
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Angular
